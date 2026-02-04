@@ -20,8 +20,3 @@ A stylish, interactive bottom menu dock inspired by macOS/iOS glassmorphism desi
 
 1. Clone the repository.
 2. Open `index.html` in your web browser.
-
-## Credits
-
-- Icons from CodePen assets.
-- Background wallpaper from 4kwallpapers.com.
